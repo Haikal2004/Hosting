@@ -76,7 +76,7 @@
       "properties": { "name": " Puskesmas Seyegan", "address": "Jl. Kebon Agung No.KM. 10.8, Sayegan, Margokaton, Kec. Seyegan, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55561 " },
       "geometry": { "coordinates": [110.29662032367935, -7.716491073922924], "type": "Point" }
     },
-    { "type": "Feature", "properties": { "name": "Puskesmas Banguntapan II" }, "geometry": { "coordinates": [110.38395198710799, -7.845084295048039], "type": "Point" } },
+    { "type": "Feature", "properties": { "name": "Puskesmas Banguntapan II", "address":"Jl. Pasopati No.99, Krobokan, Tamanan, Kec. Banguntapan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55191" }, "geometry": { "coordinates": [110.38395198710799, -7.845084295048039], "type": "Point" } },
     {
       "type": "Feature",
       "properties": { "name": "Puskesmas Godean I", "address": "Jl. Pandean 7, Sidoluhur, Godean, Pandean, Sidoluhur, Sleman, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55264" },
