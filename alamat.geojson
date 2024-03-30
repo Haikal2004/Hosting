@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Puskesmas Pembantu Demangan", "address": "Jl. Munggur No.32-D, Demangan, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55221" },
+      "geometry": { "coordinates": [110.39011896224844, -7.784809869484036], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Puskesmas Mantrijeron", "address": "Jl. DI Panjaitan No.82, Suryodiningratan, Kec. Mantrijeron, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55141" },
+      "geometry": { "coordinates": [110.3592525308257, -7.819788991805325], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Puskesmas Gedongtengen ", "address": "Jl. Pringgokusuman No.30, Pringgokusuman, Gedong Tengen, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55272" },
+      "geometry": { "coordinates": [110.35862885691819, -7.792197089007431], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Puskesmas Pakualaman Yogyakarta", "address": "Jl. Jayeng Prawiran No.13, Purwokinanti, Pakualaman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55166" },
+      "geometry": { "coordinates": [110.3603678673532, -7.802056626880727], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Puskesmas Pembantu Joyonegaran", "address": "JL. Joyonegaran, MG II 891, Wirogunan, Mergangsan, Wirogunan, Kec. Mergangsan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55151" },
+      "geometry": { "coordinates": [110.37642140675467, -7.81056347980622], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Puskesmas Wirogunan ", "address": "Wirogunan, Kec. Mergangsan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55151" },
+      "geometry": { "coordinates": [110.37869218176826, -7.80728251181074], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Puskesmas Ngampilan", "address": "JL. Munir Serangan Blok.NG.II No.215, Notoprajan, Ngampilan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55262" },
+      "geometry": { "coordinates": [110.35514507863712, -7.804891743679917], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Puskesmas Kraton", "address": "Jl. Musikanan KT II No.457, Panembahan, Kecamatan Kraton, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55131" },
+      "geometry": { "coordinates": [110.36677147117297, -7.808055275978376], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Puskesmas Mergangsan ", "address": "Gg. Brojopermono, Wirogunan, Kec. Mergangsan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55151" },
+      "geometry": { "coordinates": [110.37638977024704, -7.807682240913749], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Puskesmas Kotagede 2 Yogyakarta", "address": "Jl. Ki Penjawi No.4, Rejowinangun, Kec. Kotagede, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55172 " },
+      "geometry": { "coordinates": [110.39794033451409, -7.819675213009546], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Puskesmas Gamping 1", "address": "Jl. Delingsari, Ambarketawang, Gamping, Patukan, Ambarketawang, Kec. Gamping, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55294" },
+      "geometry": { "coordinates": [110.32185711730938, -7.80144042488233], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Puskesmas Kasihan I ", "address": "Jl. Bibis, Ngentak, Bangunjiwo, Kec. Kasihan, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55184" },
+      "geometry": { "coordinates": [110.31440102221234, -7.8446401502149], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Puskesmas Sleman Srimulyo", "address": "Jl. Kapten Haryadi No.6, Triharjo, Kec. Sleman, Daerah Istimewa Yogyakarta 55514" },
+      "geometry": { "coordinates": [110.38682518171692, -7.721718002613827], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Puskesmas Berbah", "address": "Jl. Sekarsuli - Berbah, Sribit, Sendangtirto, Kec. Berbah, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55573" },
+      "geometry": { "coordinates": [110.448794375842, -7.807535189661664], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": " Puskesmas Seyegan", "address": "Jl. Kebon Agung No.KM. 10.8, Sayegan, Margokaton, Kec. Seyegan, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55561 " },
+      "geometry": { "coordinates": [110.29662032367935, -7.716491073922924], "type": "Point" }
+    },
+    { "type": "Feature", "properties": { "name": "Puskesmas Banguntapan II" }, "geometry": { "coordinates": [110.38395198710799, -7.845084295048039], "type": "Point" } },
+    {
+      "type": "Feature",
+      "properties": { "name": "Puskesmas Godean I", "address": "Jl. Pandean 7, Sidoluhur, Godean, Pandean, Sidoluhur, Sleman, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55264" },
+      "geometry": { "coordinates": [110.28334562960202, -7.771003640372413], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Puskesmas Cabang Mlati", "address": "Gombang Asem,, Rajeg Lor, Tirtoadi, Kec. Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55287" },
+      "geometry": { "coordinates": [110.32606816678458, -7.749409753858018], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Puskesmas Tegalmulyo", "address": "Jl. Tegalmulyo No.I, Pakuncen, Wirobrajan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55253" },
+      "geometry": { "coordinates": [110.35462983049314, -7.796371915764553], "type": "Point" }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "Puskesmas Wirobrajan", "address": "Wirogunan, Kec. Mergangsan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55151" },
+      "geometry": { "coordinates": [110.34905367849848, -7.81100405226681], "type": "Point" }
+    }
+  ]
+}
